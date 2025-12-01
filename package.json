@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Anya-Phan.github.io/tic-tac-toe-react-",
+  "homepage": "https://anya-phan.github.io/tic-tac-toe-react-/",
   "type": "module",
   "scripts": {
     "dev": "vite",
